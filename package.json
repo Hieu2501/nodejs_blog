@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hieu2501/nodejs_blog.git"
+  },
+  "keywords": [
+    "f8",
+    "f8",
+    "nodejs",
+    "blog",
+    "nodejs"
+  ],
+  "author": "hieumx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hieu2501/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/Hieu2501/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

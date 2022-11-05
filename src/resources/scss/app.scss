@@ -1,0 +1,25 @@
+@import 'variables';
+h1 {
+    color: $blue-color;
+}
+
+h2 {
+    color: $blue-color;
+}
+
+.wrap-item {
+    display: flex;
+    justify-content: center;
+}
+
+.card-course-item {
+    margin-top: 16px;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 6px;
+}
